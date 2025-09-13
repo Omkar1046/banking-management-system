@@ -1,3 +1,1 @@
-# banking-management-system
-# banking-management-system
-# banking-management-system
+“A Java-based Banking Management System built with core Java and JDBC. Provides backend functionalities like account creation, balance management, deposits, withdrawals, and money transaction with security."
